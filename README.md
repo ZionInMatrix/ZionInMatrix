@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Rudolf Gasparian
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in programming
+- 🌱 I keep learning Java and frameworks like Spring, Hibernate...
+- 📫 You can find me on website https://www.linkedin.com/in/rudolf-g-b3a179159
 
 <!---
 ZionInMatrix/ZionInMatrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
