@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rudolf Gasparian
 - 👀 I’m interested in programming
-- 🌱 I keep learning Java and frameworks like Spring, Hibernate...
+- 🌱 I keep learning Java and frameworks like Spring, Hibernate.
 - 📫 You can find me on website https://www.linkedin.com/in/rudolf-g-b3a179159
 
 <!---
