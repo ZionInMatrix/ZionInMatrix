@@ -1,2 +1,2 @@
 
-![Banner](https://user-images.githubusercontent.com/69584395/172560399-9c90da2f-37db-40c9-b43b-26466440a289.png)
+![Blue Yellow Futuristic Virtual Technology Blog Banner (1)](https://user-images.githubusercontent.com/69584395/172560485-ea317844-1c34-42f4-9c61-8c8e9fd3f257.png)
