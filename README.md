@@ -17,4 +17,3 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![ORACLE DB](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SonarCloud Vulnerabilities](https://sonarcloud.io/api/badges/measure?key=com.github.noraui%3Anoraui&metric=vulnerabilities)
